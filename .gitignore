@@ -4,6 +4,8 @@
 *.tar.gz
 *.zip
 *.log.gz
+Exploit.java
+Exploit.class
 server/
 !server/*.json
 !server/server.properties
