@@ -3,3 +3,8 @@
 *.jar
 *.tar.gz
 *.zip
+*.log.gz
+server/
+!server/*.json
+!server/server.properties
+!server/*.txt
