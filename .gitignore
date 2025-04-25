@@ -4,6 +4,7 @@
 *.tar.gz
 *.zip
 *.log.gz
+jre*
 Exploit.java
 Exploit.class
 server/
