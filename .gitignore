@@ -1,13 +1,11 @@
 .DS_Store
 *.gdoc
-*.jar
 *.tar.gz
 *.zip
 *.log.gz
 jre*
-Exploit.java
-Exploit.class
+attacker/Exploit.java
+attacker/Exploit.class
 server/
-!server/*.json
+!server/server.README.md
 !server/server.properties
-!server/*.txt
