@@ -6,7 +6,7 @@
 *.log.gz
 jre*
 Exploit.java
-Exploit.class
+*.class
 server/
 !server/*.json
 !server/server.properties
