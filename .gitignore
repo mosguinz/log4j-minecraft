@@ -4,8 +4,8 @@
 *.zip
 *.log.gz
 jre*
-attacker/Exploit.java
-attacker/Exploit.class
+Exploit.java
+*.class
 server/
 !server/server.README.md
 !server/server.properties
